@@ -1,3 +1,3 @@
 # html-boilerplate
 
-HTML Foundations The Odin Project
+HTML Foundations (The Odin Project)
